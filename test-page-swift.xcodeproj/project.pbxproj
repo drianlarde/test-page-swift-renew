@@ -78,6 +78,7 @@
 		6AB31D702B6AB39700764A70 /* test_page_swiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB31D6F2B6AB39700764A70 /* test_page_swiftUITests.swift */; };
 		6AB31D722B6AB39700764A70 /* test_page_swiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AB31D712B6AB39700764A70 /* test_page_swiftUITestsLaunchTests.swift */; };
 		6AB31D802B6AB8D000764A70 /* Inject in Frameworks */ = {isa = PBXBuildFile; productRef = 6AB31D7F2B6AB8D000764A70 /* Inject */; };
+		6AEC98962B6CB225003EF92B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6AEC98952B6CB225003EF92B /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -132,6 +133,7 @@
 		6AB31D6B2B6AB39700764A70 /* test-page-swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "test-page-swiftUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6AB31D6F2B6AB39700764A70 /* test_page_swiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_page_swiftUITests.swift; sourceTree = "<group>"; };
 		6AB31D712B6AB39700764A70 /* test_page_swiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test_page_swiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6AEC98952B6CB225003EF92B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -190,6 +192,7 @@
 		6AB31D482B6AB39500764A70 = {
 			isa = PBXGroup;
 			children = (
+				6AEC98952B6CB225003EF92B /* README.md */,
 				6AB31D532B6AB39500764A70 /* test-page-swift */,
 				6AB31D642B6AB39700764A70 /* test-page-swiftTests */,
 				6AB31D6E2B6AB39700764A70 /* test-page-swiftUITests */,
@@ -366,6 +369,7 @@
 				6A2E66152B6BA1B300FE8CD5 /* Gilroy-LightItalic.ttf in Resources */,
 				6AB31D5C2B6AB39700764A70 /* Preview Assets.xcassets in Resources */,
 				6A2E66182B6BA1B300FE8CD5 /* Gilroy-RegularItalic.ttf in Resources */,
+				6AEC98962B6CB225003EF92B /* README.md in Resources */,
 				6A2E66132B6BA1B300FE8CD5 /* Gilroy-UltraLight.ttf in Resources */,
 				6A2E660C2B6BA1B300FE8CD5 /* Gilroy-Light.ttf in Resources */,
 				6A2E66102B6BA1B300FE8CD5 /* Gilroy-ExtraBoldItalic.ttf in Resources */,
